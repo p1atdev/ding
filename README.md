@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-cargo isntall --git https://github.com/p1atdev/ding
+cargo install --git https://github.com/p1atdev/ding
 ```
 
 ## Usage
